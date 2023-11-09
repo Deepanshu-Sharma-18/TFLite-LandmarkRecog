@@ -1,1 +1,1 @@
-# TFLite-LandmarkRecog
+# TFLite-LandmarkRecognnition
